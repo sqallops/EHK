@@ -66,7 +66,7 @@
 </tr>
 <tr>
   <td>The Vent</td>
-  <tdBig K.R.I.T.></td>
+  <td>Big KRIT</td>
 </tr>
 <tr>
   <td>Last Call</td>
